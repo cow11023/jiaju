@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>欢迎来到水牛之家</title>
+{% load static %}
+    <link rel="stylesheet" href="/static/css/style.css">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        .fullscreen-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到水牛之家</h1>
+
+
+    <img src="/static/images/family.jpg" alt="全家图片" class="fullscreen-img">
+
+    <h2>设备概览</h2>
+    <!-- 设备概览部分 -->
+    {% for device in devices %}
+    <p>{{ device.name }} - 温度: {{ device.temperature }}°C - 风速: {{ device.fan_speed }}</p>
+    {% empty %}
+    <p>没有可用设备。</p>
+    {% endfor %}
+    <h2>设备控制</h2>
+    <!-- 设备控制部分 -->
+    <form method="post" action="/device_control/">
+    {% csrf_token %}
+    <select name="device">
+        {% for device in devices %}
+            <option value="{{ device.id }}">{{ device.name }}</option>
+        {% endfor %}
+    </select>
+    <input type="submit" value="控制">
+    </form>
+
+
+    <h2>房间管理</h2>
+    <!-- 房间管理部分 -->
+    {% for room in rooms %}
+    <p>{{ bedroom.name }}</p>
+    {% empty %}
+    <p>没有可用卧室。</p>
+    {% endfor %}
+
+    <h2>场景模式</h2>
+    <!-- 场景模式部分 -->
+    {% for scene in scenes %}
+    <h3>{{ scene.name }}</h3>
+    <p>{{ scene.description }}</p>
+    <form method="post" action="/scene_control/{{ scene.id }}/">
+        {% csrf_token %}
+        <input type="submit" value="启动场景">
+    </form>
+    {% empty %}
+        <p>没有可用场景。</p>
+    {% endfor %}
+
+    <h2>数据统计</h2>
+    <!-- 数据统计部分 -->
+    <p>总设备数：{{ total_devices }}</p>
+    <p>平均温度：{{ average_temperature }}°C</p>
+    <p>总能耗：{{ total_energy }} kWh</p>
+    <h2>定时任务</h2>
+    <!-- 定时任务部分 -->
+    {% for task in tasks %}
+    <h3>{{ task.name }}</h3>
+    <p>{{ task.description }}</p>
+    <p>下次执行时间：{{ task.next_execution }}</p>
+    <form method="post" action="/schedule_task/{{ task.id }}/">
+        {% csrf_token %}
+        <input type="submit" value="编辑任务">
+    </form>
+    {% empty %}
+        <p>没有定时任务。</p>
+    {% endfor %}
+
+    <h2>通知和提醒</h2>
+    <!-- 通知和提醒部分 -->
+    {% for notification in notifications %}
+    <h3>{{ notification.title }}</h3>
+    <p>{{ notification.content }}</p>
+    {% empty %}
+        <p>没有新通知。</p>
+    {% endfor %}
+
+    <h2>其他功能链接</h2>
+    <ul>
+        <li><a href="/user_management/register/">注册</a></li>
+        <li><a href="/user_management/login/">登录</a></li>
+        <li><a href="/user_management/">用户管理</a></li>
+        <li><a href="/settings/">系统设置</a></li>
+        <li><a href="/help/">帮助文档</a></li>
+        <!-- 其他功能链接 -->
+    </ul>
+</body>
+</html>

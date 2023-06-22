@@ -1,0 +1,35 @@
+/* style.css */
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+a {
+  position: relative;
+  z-index: 999; /* 将链接的层叠顺序设置为较高的值 */
+}
+
+.fullscreen-img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.5; /* 设置初始透明度为0.5 */
+  transition: opacity 0.3s; /* 添加过渡效果 */
+}
+
+.fullscreen-img:hover {
+  opacity: 1; /* 鼠标悬浮时设置透明度为1 */
+}
+
+p {
+  color: #666;
+  line-height: 1.5;
+}
