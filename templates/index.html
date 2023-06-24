@@ -23,6 +23,18 @@
 
 
     <img src="/static/images/family.jpg" alt="全家图片" class="fullscreen-img">
+    <div class="welcome-message">
+      <h1>欢迎光临我的第一个家：唐丰苑103号1002</h1>
+    </div>
+    <script>
+      // 等待欢迎特效展示完毕后隐藏它
+      window.addEventListener('load', function() {
+        var welcomeMessage = document.querySelector('.welcome-message');
+        setTimeout(function() {
+          welcomeMessage.style.display = 'none';
+        }, 5000); // 设置延迟时间为特效展示的持续时间
+      });
+    </script>
 
     <h2>设备概览</h2>
     <!-- 设备概览部分 -->

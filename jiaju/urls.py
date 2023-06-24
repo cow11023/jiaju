@@ -15,18 +15,16 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from usermanagement.views import user_list
-from roommanagement.views import room_list
 from . import views
 from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('users/', user_list, name='user_list'),
-    path('rooms/', room_list, name='room_list'),
+    path('users/', include('usermanagement.urls', namespace='usermanagement')),
+    # path('rooms/', include('roommanagement.urls', namespace='roommanagement')),
     path('devices/', include('devicemanagement.urls', namespace='devicemanagement')),
-    path('', views.index, name='index')
+    path('', views.index, name='index'),
 ]
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
