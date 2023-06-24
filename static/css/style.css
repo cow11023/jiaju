@@ -8,9 +8,11 @@ body {
 h1 {
   color: #333;
 }
+
 a {
   position: relative;
-  z-index: 999; /* 将链接的层叠顺序设置为较高的值 */
+  z-index: 999;
+  /* 将链接的层叠顺序设置为较高的值 */
 }
 
 .fullscreen-img {
@@ -32,4 +34,54 @@ a {
 p {
   color: #666;
   line-height: 1.5;
+}
+
+/* 调整文字样式 */
+h1, h2, h3, p, ul {
+  position: relative;
+  z-index: 2;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #333;
+}
+
+h3 {
+  color: #333;
+}
+
+p {
+  color: #666;
+  line-height: 1.5;
+}
+
+ul {
+  color: #333;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+ul.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.menu li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+ul.menu li span {
+  margin-left: 5px;
 }

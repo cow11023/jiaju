@@ -1,5 +1,7 @@
 from django.db import models
 from roommanagement.models import Room
+
+
 class Device(models.Model):
     room = models.ForeignKey(Room, on_delete=models.CASCADE)
     name = models.CharField(max_length=100)
@@ -8,8 +10,14 @@ class Device(models.Model):
     current_temperature = models.FloatField()  # 当前温度字段
     fan_speed = models.IntegerField()  # 风速字段
     current_fan_speed = models.IntegerField()  # 当前风速字段
+    energy = models.FloatField(default=0)  # 能耗字段
 
-    # 添加其他设备属性和方法
+    def update_statistics(self):
+        # 更新统计数据
+        self.total_devices = Device.objects.count()
+        self.average_temperature = Device.objects.aggregate(models.Avg('temperature'))['temperature__avg']
+        self.total_energy = Device.objects.aggregate(models.Sum('energy'))['energy__sum']
+        self.save()
 
     def set_temperature(self, new_temperature):
         # 设置温度逻辑

@@ -3,7 +3,7 @@ from .models import Room
 
 def room_list(request):
     rooms = Room.objects.all()
-    return render(request, 'room_management/room_list.html', {'rooms': rooms})
+    return render(request, 'room/room_list.html', {'rooms': rooms})
 
 def room_temperature(request, room_id):
     room = get_object_or_404(Room, id=room_id)
@@ -22,7 +22,7 @@ def room_temperature(request, room_id):
         'current_temperature': current_temperature
     }
 
-    return render(request, 'rooms/room_temperature.html', context)
+    return render(request, 'room/room_temperature.html', context)
 
 
 # Create your views here.
