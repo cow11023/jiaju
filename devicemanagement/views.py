@@ -4,7 +4,6 @@ from broadlink.exceptions import BroadlinkException
 from .models import Room, Device
 
 
-@staticmethod
 def create(request, room_id):
     room = get_object_or_404(Room, id=room_id)
 
@@ -38,7 +37,6 @@ def create(request, room_id):
     return render(request, 'devices/create_device.html', context)
 
 
-@staticmethod
 def update(request, device_id):
     device = get_object_or_404(Device, id=device_id)
     room = device.room
@@ -61,7 +59,6 @@ def update(request, device_id):
     return render(request, 'devices/update_device.html', context)
 
 
-@staticmethod
 def delete(request, device_id):
     device = get_object_or_404(Device, id=device_id)
     room = device.room

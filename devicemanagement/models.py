@@ -3,7 +3,7 @@ from roommanagement.models import Room
 class Device(models.Model):
     room = models.ForeignKey(Room, on_delete=models.CASCADE)
     name = models.CharField(max_length=100)
-    device = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True)
+    parent_device = models.ForeignKey('self', on_delete=models.CASCADE, null=True, blank=True)
     temperature = models.FloatField()  # 温度字段
     current_temperature = models.FloatField()  # 当前温度字段
     fan_speed = models.IntegerField()  # 风速字段

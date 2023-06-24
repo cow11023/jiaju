@@ -20,13 +20,12 @@ from roommanagement.views import room_list
 from . import views
 from django.conf import settings
 from django.conf.urls.static import static
-from devicemanagement import urls as devicemanagement_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('users/', user_list, name='user_list'),
     path('rooms/', room_list, name='room_list'),
-    path('devices/', include((devicemanagement_urls, 'devicemanagement'), namespace='devicemanagement')),
+    path('devices/', include('devicemanagement.urls', namespace='devicemanagement')),
     path('', views.index, name='index')
 ]
 
