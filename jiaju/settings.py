@@ -77,27 +77,13 @@ WSGI_APPLICATION = 'jiaju.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
 DATABASES = {
     'default': {
-        # 配置使用mysql
-        'ENGINE': 'django.db.backends.mysql',  # 数据库产品
-        'HOST': "192.168.2.57",  # 数据库ip
-        'PORT': 3306,  # 数据库端口
-        'USER': "root",  # 用户名
-        'PASSWORD': "GreaterWMS@@20210816",  # 密码
-        'NAME': "jiaju",  # 数据库名
-        "default-character-set": 'utf8',
-        'OPTIONS': {
-            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
-        },
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators

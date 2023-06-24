@@ -1,4 +1,4 @@
-FROM python:3.9-slim as base
+FROM --platform=linux/amd64 python:3.9-slim as base
 RUN mkdir /jiaju/
 WORKDIR /jiaju/
 COPY ./jiaju_start.sh /jiaju/jiaju_start.sh
@@ -11,7 +11,7 @@ RUN pip3 config set global.index-url http://mirrors.aliyun.com/pypi/simple/
 RUN pip3 config set install.trusted-host mirrors.aliyun.com
 RUN python3 -m pip install --upgrade pip
 RUN pip3 install Django==4.1.4
-RUN pip3 install mysqlclient
+RUN pip3 install broadlink
 RUN chmod +x /jiaju/jiaju_start.sh
 CMD ["/jiaju/jiaju_start.sh"]
 EXPOSE 9100
