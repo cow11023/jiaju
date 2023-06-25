@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>修改用户资料</title>
+</head>
+<body>
+    <h1>修改用户资料</h1>
+    {% if error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <label for="address">地址：</label>
+        <input type="text" name="address" value="{{ user.address }}" required><br><br>
+
+        <label for="phone">手机号：</label>
+        <input type="text" name="phone" value="{{ user.phone }}" required><br><br>
+
+        <label for="avatar">头像：</label>
+        <input type="file" name="avatar" accept="image/*"><br><br>
+
+        <input type="submit" value="保存">
+    </form>
+</body>
+</html>
