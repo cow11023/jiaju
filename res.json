@@ -1,0 +1,2552 @@
+[{
+	'id': 2467,
+	'bin_name': 'TARA',
+	'goods_code': 'KX-014',
+	'goods_qty': 198
+}, {
+	'id': 2360,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-005',
+	'goods_qty': 80
+}, {
+	'id': 2359,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-024',
+	'goods_qty': 21
+}, {
+	'id': 2358,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-032',
+	'goods_qty': 198
+}, {
+	'id': 2357,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-033S',
+	'goods_qty': 120
+}, {
+	'id': 2356,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-037S',
+	'goods_qty': 199
+}, {
+	'id': 2355,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-040',
+	'goods_qty': 60
+}, {
+	'id': 2354,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-047SA',
+	'goods_qty': 130
+}, {
+	'id': 2353,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-047SB',
+	'goods_qty': 130
+}, {
+	'id': 2352,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-050T',
+	'goods_qty': 70
+}, {
+	'id': 2351,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-058T',
+	'goods_qty': 320
+}, {
+	'id': 2350,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-062',
+	'goods_qty': 30
+}, {
+	'id': 2349,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-064',
+	'goods_qty': 193
+}, {
+	'id': 2348,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-067',
+	'goods_qty': 88
+}, {
+	'id': 2347,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-074',
+	'goods_qty': 250
+}, {
+	'id': 2346,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-078A',
+	'goods_qty': 50
+}, {
+	'id': 2345,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-078B',
+	'goods_qty': 50
+}, {
+	'id': 2344,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-081',
+	'goods_qty': 250
+}, {
+	'id': 2343,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-090',
+	'goods_qty': 128
+}, {
+	'id': 2342,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-002S',
+	'goods_qty': 35
+}, {
+	'id': 2341,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-013S',
+	'goods_qty': 30
+}, {
+	'id': 2340,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-015',
+	'goods_qty': 10
+}, {
+	'id': 2339,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-029TA',
+	'goods_qty': 10
+}, {
+	'id': 2338,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-029TB',
+	'goods_qty': 10
+}, {
+	'id': 2337,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-059',
+	'goods_qty': 70
+}, {
+	'id': 2336,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-072',
+	'goods_qty': 40
+}, {
+	'id': 2335,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-082',
+	'goods_qty': 10
+}, {
+	'id': 2334,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-093',
+	'goods_qty': 60
+}, {
+	'id': 2332,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-402',
+	'goods_qty': 20
+}, {
+	'id': 2331,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-413',
+	'goods_qty': 15
+}, {
+	'id': 2330,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-414S-1',
+	'goods_qty': 18
+}, {
+	'id': 2329,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-418',
+	'goods_qty': 30
+}, {
+	'id': 2328,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-426',
+	'goods_qty': 15
+}, {
+	'id': 2327,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-428-2',
+	'goods_qty': 28
+}, {
+	'id': 2326,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-432',
+	'goods_qty': 130
+}, {
+	'id': 2325,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-435',
+	'goods_qty': 42
+}, {
+	'id': 2324,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-436',
+	'goods_qty': 60
+}, {
+	'id': 2323,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-439',
+	'goods_qty': 34
+}, {
+	'id': 2322,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-442',
+	'goods_qty': 15
+}, {
+	'id': 2321,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-443A',
+	'goods_qty': 29
+}, {
+	'id': 2320,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-443B',
+	'goods_qty': 29
+}, {
+	'id': 2319,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-445',
+	'goods_qty': 70
+}, {
+	'id': 2318,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-447',
+	'goods_qty': 39
+}, {
+	'id': 2317,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-448',
+	'goods_qty': 164
+}, {
+	'id': 2316,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-451S',
+	'goods_qty': 123
+}, {
+	'id': 2315,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-452',
+	'goods_qty': 45
+}, {
+	'id': 2314,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-457',
+	'goods_qty': 62
+}, {
+	'id': 2313,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-459',
+	'goods_qty': 48
+}, {
+	'id': 2312,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-460S',
+	'goods_qty': 89
+}, {
+	'id': 2311,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-464',
+	'goods_qty': 100
+}, {
+	'id': 2310,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-465',
+	'goods_qty': 20
+}, {
+	'id': 2309,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-468',
+	'goods_qty': 61
+}, {
+	'id': 2308,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-471-1',
+	'goods_qty': 50
+}, {
+	'id': 2307,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-479',
+	'goods_qty': 50
+}, {
+	'id': 2306,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-10',
+	'goods_qty': 41
+}, {
+	'id': 2305,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-11',
+	'goods_qty': 9
+}, {
+	'id': 2304,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-2',
+	'goods_qty': 60
+}, {
+	'id': 2303,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-3',
+	'goods_qty': 60
+}, {
+	'id': 2302,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-481-4',
+	'goods_qty': 25
+}, {
+	'id': 2301,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-486',
+	'goods_qty': 35
+}, {
+	'id': 2300,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-492',
+	'goods_qty': 30
+}, {
+	'id': 2299,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-494S',
+	'goods_qty': 80
+}, {
+	'id': 2298,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-495',
+	'goods_qty': 45
+}, {
+	'id': 2297,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-496S',
+	'goods_qty': 30
+}, {
+	'id': 2296,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-498',
+	'goods_qty': 36
+}, {
+	'id': 2295,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-832',
+	'goods_qty': 30
+}, {
+	'id': 2294,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-859',
+	'goods_qty': 15
+}, {
+	'id': 2293,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-864',
+	'goods_qty': 40
+}, {
+	'id': 2292,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-880',
+	'goods_qty': 50
+}, {
+	'id': 2291,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-884-1',
+	'goods_qty': 50
+}, {
+	'id': 2290,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-006F',
+	'goods_qty': 59
+}, {
+	'id': 2289,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-006F-MB',
+	'goods_qty': 30
+}, {
+	'id': 2288,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-049',
+	'goods_qty': 50
+}, {
+	'id': 2287,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-053',
+	'goods_qty': 50
+}, {
+	'id': 2286,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-054',
+	'goods_qty': 200
+}, {
+	'id': 2285,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-401-3',
+	'goods_qty': 70
+}, {
+	'id': 2284,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-403',
+	'goods_qty': 50
+}, {
+	'id': 2283,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-409',
+	'goods_qty': 132
+}, {
+	'id': 2282,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-412S',
+	'goods_qty': 70
+}, {
+	'id': 2281,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-413',
+	'goods_qty': 40
+}, {
+	'id': 2280,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-416-2',
+	'goods_qty': 60
+}, {
+	'id': 2279,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-417',
+	'goods_qty': 50
+}, {
+	'id': 2278,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-419',
+	'goods_qty': 20
+}, {
+	'id': 2277,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-420',
+	'goods_qty': 30
+}, {
+	'id': 2276,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-422-1S',
+	'goods_qty': 20
+}, {
+	'id': 2275,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-434-1',
+	'goods_qty': 40
+}, {
+	'id': 2274,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-439',
+	'goods_qty': 40
+}, {
+	'id': 2273,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-442-3',
+	'goods_qty': 15
+}, {
+	'id': 2272,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-447',
+	'goods_qty': 70
+}, {
+	'id': 2271,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-450-2',
+	'goods_qty': 67
+}, {
+	'id': 2270,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-452',
+	'goods_qty': 60
+}, {
+	'id': 2269,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-453',
+	'goods_qty': 60
+}, {
+	'id': 2268,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-457-2',
+	'goods_qty': 185
+}, {
+	'id': 2267,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-461',
+	'goods_qty': 20
+}, {
+	'id': 2266,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-467S',
+	'goods_qty': 57
+}, {
+	'id': 2265,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-471',
+	'goods_qty': 145
+}, {
+	'id': 2264,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-472-1',
+	'goods_qty': 49
+}, {
+	'id': 2263,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-472S-2',
+	'goods_qty': 30
+}, {
+	'id': 2262,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-481',
+	'goods_qty': 113
+}, {
+	'id': 2261,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-486-2',
+	'goods_qty': 30
+}, {
+	'id': 2260,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-490-2',
+	'goods_qty': 40
+}, {
+	'id': 2259,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-493-1',
+	'goods_qty': 116
+}, {
+	'id': 2258,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-493-3',
+	'goods_qty': 50
+}, {
+	'id': 2257,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-494',
+	'goods_qty': 80
+}, {
+	'id': 2256,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-1',
+	'goods_qty': 40
+}, {
+	'id': 2255,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-2',
+	'goods_qty': 40
+}, {
+	'id': 2254,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-3',
+	'goods_qty': 15
+}, {
+	'id': 2253,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-849',
+	'goods_qty': 20
+}, {
+	'id': 2252,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-857',
+	'goods_qty': 17
+}, {
+	'id': 2251,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-862-1',
+	'goods_qty': 26
+}, {
+	'id': 2250,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-893-1',
+	'goods_qty': 40
+}, {
+	'id': 2249,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-893-2',
+	'goods_qty': 40
+}, {
+	'id': 2248,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-898',
+	'goods_qty': 12
+}, {
+	'id': 2247,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-002-MR',
+	'goods_qty': 20
+}, {
+	'id': 2246,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-003-2',
+	'goods_qty': 30
+}, {
+	'id': 2245,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-010-1',
+	'goods_qty': 19
+}, {
+	'id': 2244,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-016-1',
+	'goods_qty': 66
+}, {
+	'id': 2243,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-019S',
+	'goods_qty': 28
+}, {
+	'id': 2242,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-020',
+	'goods_qty': 79
+}, {
+	'id': 2241,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-020-SM',
+	'goods_qty': 27
+}, {
+	'id': 2240,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-022-MB',
+	'goods_qty': 152
+}, {
+	'id': 2239,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-022-RD',
+	'goods_qty': 50
+}, {
+	'id': 2238,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-024S-RD',
+	'goods_qty': 147
+}, {
+	'id': 2237,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-025T',
+	'goods_qty': 29
+}, {
+	'id': 2236,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-027-3',
+	'goods_qty': 15
+}, {
+	'id': 2235,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-RC',
+	'goods_qty': 20
+}, {
+	'id': 2234,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-YC-L',
+	'goods_qty': 199
+}, {
+	'id': 2233,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-YC-R',
+	'goods_qty': 238
+}, {
+	'id': 2232,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-032-R',
+	'goods_qty': 50
+}, {
+	'id': 2231,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-033',
+	'goods_qty': 30
+}, {
+	'id': 2230,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-034-2S',
+	'goods_qty': 20
+}, {
+	'id': 2229,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-038-L',
+	'goods_qty': 130
+}, {
+	'id': 2228,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-038-R',
+	'goods_qty': 300
+}, {
+	'id': 2227,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-039S-2',
+	'goods_qty': 69
+}, {
+	'id': 2226,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-044-L',
+	'goods_qty': 50
+}, {
+	'id': 2225,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-044-R',
+	'goods_qty': 60
+}, {
+	'id': 2224,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-054-L',
+	'goods_qty': 20
+}, {
+	'id': 2223,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-054-R',
+	'goods_qty': 30
+}, {
+	'id': 2222,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-062T',
+	'goods_qty': 72
+}, {
+	'id': 2221,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-063T',
+	'goods_qty': 89
+}, {
+	'id': 2220,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-064-2',
+	'goods_qty': 381
+}, {
+	'id': 2219,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-065',
+	'goods_qty': 200
+}, {
+	'id': 2218,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-066',
+	'goods_qty': 50
+}, {
+	'id': 2217,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-068',
+	'goods_qty': 280
+}, {
+	'id': 2216,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-073T-1',
+	'goods_qty': 27
+}, {
+	'id': 2215,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-074',
+	'goods_qty': 17
+}, {
+	'id': 2214,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-075',
+	'goods_qty': 48
+}, {
+	'id': 2213,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-076',
+	'goods_qty': 42
+}, {
+	'id': 2212,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-084',
+	'goods_qty': 50
+}, {
+	'id': 2211,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-085',
+	'goods_qty': 7
+}, {
+	'id': 2210,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-096S-1',
+	'goods_qty': 150
+}, {
+	'id': 2209,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-096S-3',
+	'goods_qty': 147
+}, {
+	'id': 2208,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-106-1',
+	'goods_qty': 15
+}, {
+	'id': 2207,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-112',
+	'goods_qty': 1
+}, {
+	'id': 2206,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-1',
+	'goods_qty': 50
+}, {
+	'id': 2205,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-3',
+	'goods_qty': 100
+}, {
+	'id': 2204,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-4',
+	'goods_qty': 78
+}, {
+	'id': 2203,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-116-L',
+	'goods_qty': 17
+}, {
+	'id': 2202,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-116-R',
+	'goods_qty': 35
+}, {
+	'id': 2201,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-127-1',
+	'goods_qty': 10
+}, {
+	'id': 2200,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-127-3',
+	'goods_qty': 10
+}, {
+	'id': 2199,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-145-2',
+	'goods_qty': 8
+}, {
+	'id': 2198,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-145-3',
+	'goods_qty': 80
+}, {
+	'id': 2197,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-148-1',
+	'goods_qty': 50
+}, {
+	'id': 2196,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-156-1',
+	'goods_qty': 40
+}, {
+	'id': 2195,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-156-2',
+	'goods_qty': 45
+}, {
+	'id': 2194,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-168-1',
+	'goods_qty': 49
+}, {
+	'id': 2193,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-168-1L',
+	'goods_qty': 30
+}, {
+	'id': 2192,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-175',
+	'goods_qty': 40
+}, {
+	'id': 2191,
+	'bin_name': 'TARA',
+	'goods_code': 'T-NS-MRC001',
+	'goods_qty': 244
+}]
+[{
+	'id': 2467,
+	'bin_name': 'TARA',
+	'goods_code': 'KX-014',
+	'goods_qty': 198
+}, {
+	'id': 2360,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-005',
+	'goods_qty': 80
+}, {
+	'id': 2359,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-024',
+	'goods_qty': 21
+}, {
+	'id': 2358,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-032',
+	'goods_qty': 198
+}, {
+	'id': 2357,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-033S',
+	'goods_qty': 120
+}, {
+	'id': 2356,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-037S',
+	'goods_qty': 199
+}, {
+	'id': 2355,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-040',
+	'goods_qty': 60
+}, {
+	'id': 2354,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-047SA',
+	'goods_qty': 130
+}, {
+	'id': 2353,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-047SB',
+	'goods_qty': 130
+}, {
+	'id': 2352,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-050T',
+	'goods_qty': 70
+}, {
+	'id': 2351,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-058T',
+	'goods_qty': 320
+}, {
+	'id': 2350,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-062',
+	'goods_qty': 30
+}, {
+	'id': 2349,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-064',
+	'goods_qty': 193
+}, {
+	'id': 2348,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-067',
+	'goods_qty': 88
+}, {
+	'id': 2347,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-074',
+	'goods_qty': 250
+}, {
+	'id': 2346,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-078A',
+	'goods_qty': 50
+}, {
+	'id': 2345,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-078B',
+	'goods_qty': 50
+}, {
+	'id': 2344,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-081',
+	'goods_qty': 250
+}, {
+	'id': 2343,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-090',
+	'goods_qty': 128
+}, {
+	'id': 2342,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-002S',
+	'goods_qty': 35
+}, {
+	'id': 2341,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-013S',
+	'goods_qty': 30
+}, {
+	'id': 2340,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-015',
+	'goods_qty': 10
+}, {
+	'id': 2339,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-029TA',
+	'goods_qty': 10
+}, {
+	'id': 2338,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-029TB',
+	'goods_qty': 10
+}, {
+	'id': 2337,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-059',
+	'goods_qty': 70
+}, {
+	'id': 2336,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-072',
+	'goods_qty': 40
+}, {
+	'id': 2335,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-082',
+	'goods_qty': 10
+}, {
+	'id': 2334,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-093',
+	'goods_qty': 60
+}, {
+	'id': 2332,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-402',
+	'goods_qty': 20
+}, {
+	'id': 2331,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-413',
+	'goods_qty': 15
+}, {
+	'id': 2330,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-414S-1',
+	'goods_qty': 18
+}, {
+	'id': 2329,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-418',
+	'goods_qty': 30
+}, {
+	'id': 2328,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-426',
+	'goods_qty': 15
+}, {
+	'id': 2327,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-428-2',
+	'goods_qty': 28
+}, {
+	'id': 2326,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-432',
+	'goods_qty': 130
+}, {
+	'id': 2325,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-435',
+	'goods_qty': 42
+}, {
+	'id': 2324,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-436',
+	'goods_qty': 60
+}, {
+	'id': 2323,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-439',
+	'goods_qty': 34
+}, {
+	'id': 2322,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-442',
+	'goods_qty': 15
+}, {
+	'id': 2321,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-443A',
+	'goods_qty': 29
+}, {
+	'id': 2320,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-443B',
+	'goods_qty': 29
+}, {
+	'id': 2319,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-445',
+	'goods_qty': 70
+}, {
+	'id': 2318,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-447',
+	'goods_qty': 39
+}, {
+	'id': 2317,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-448',
+	'goods_qty': 164
+}, {
+	'id': 2316,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-451S',
+	'goods_qty': 123
+}, {
+	'id': 2315,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-452',
+	'goods_qty': 45
+}, {
+	'id': 2314,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-457',
+	'goods_qty': 62
+}, {
+	'id': 2313,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-459',
+	'goods_qty': 48
+}, {
+	'id': 2312,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-460S',
+	'goods_qty': 89
+}, {
+	'id': 2311,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-464',
+	'goods_qty': 100
+}, {
+	'id': 2310,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-465',
+	'goods_qty': 20
+}, {
+	'id': 2309,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-468',
+	'goods_qty': 61
+}, {
+	'id': 2308,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-471-1',
+	'goods_qty': 50
+}, {
+	'id': 2307,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-479',
+	'goods_qty': 50
+}, {
+	'id': 2306,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-10',
+	'goods_qty': 41
+}, {
+	'id': 2305,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-11',
+	'goods_qty': 9
+}, {
+	'id': 2304,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-2',
+	'goods_qty': 60
+}, {
+	'id': 2303,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-3',
+	'goods_qty': 60
+}, {
+	'id': 2302,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-481-4',
+	'goods_qty': 25
+}, {
+	'id': 2301,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-486',
+	'goods_qty': 35
+}, {
+	'id': 2300,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-492',
+	'goods_qty': 30
+}, {
+	'id': 2299,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-494S',
+	'goods_qty': 80
+}, {
+	'id': 2298,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-495',
+	'goods_qty': 45
+}, {
+	'id': 2297,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-496S',
+	'goods_qty': 30
+}, {
+	'id': 2296,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-498',
+	'goods_qty': 36
+}, {
+	'id': 2295,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-832',
+	'goods_qty': 30
+}, {
+	'id': 2294,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-859',
+	'goods_qty': 15
+}, {
+	'id': 2293,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-864',
+	'goods_qty': 40
+}, {
+	'id': 2292,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-880',
+	'goods_qty': 50
+}, {
+	'id': 2291,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-884-1',
+	'goods_qty': 50
+}, {
+	'id': 2290,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-006F',
+	'goods_qty': 59
+}, {
+	'id': 2289,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-006F-MB',
+	'goods_qty': 30
+}, {
+	'id': 2288,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-049',
+	'goods_qty': 50
+}, {
+	'id': 2287,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-053',
+	'goods_qty': 50
+}, {
+	'id': 2286,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-054',
+	'goods_qty': 200
+}, {
+	'id': 2285,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-401-3',
+	'goods_qty': 70
+}, {
+	'id': 2284,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-403',
+	'goods_qty': 50
+}, {
+	'id': 2283,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-409',
+	'goods_qty': 132
+}, {
+	'id': 2282,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-412S',
+	'goods_qty': 70
+}, {
+	'id': 2281,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-413',
+	'goods_qty': 40
+}, {
+	'id': 2280,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-416-2',
+	'goods_qty': 60
+}, {
+	'id': 2279,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-417',
+	'goods_qty': 50
+}, {
+	'id': 2278,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-419',
+	'goods_qty': 20
+}, {
+	'id': 2277,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-420',
+	'goods_qty': 30
+}, {
+	'id': 2276,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-422-1S',
+	'goods_qty': 20
+}, {
+	'id': 2275,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-434-1',
+	'goods_qty': 40
+}, {
+	'id': 2274,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-439',
+	'goods_qty': 40
+}, {
+	'id': 2273,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-442-3',
+	'goods_qty': 15
+}, {
+	'id': 2272,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-447',
+	'goods_qty': 70
+}, {
+	'id': 2271,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-450-2',
+	'goods_qty': 67
+}, {
+	'id': 2270,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-452',
+	'goods_qty': 60
+}, {
+	'id': 2269,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-453',
+	'goods_qty': 60
+}, {
+	'id': 2268,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-457-2',
+	'goods_qty': 185
+}, {
+	'id': 2267,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-461',
+	'goods_qty': 20
+}, {
+	'id': 2266,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-467S',
+	'goods_qty': 57
+}, {
+	'id': 2265,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-471',
+	'goods_qty': 145
+}, {
+	'id': 2264,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-472-1',
+	'goods_qty': 49
+}, {
+	'id': 2263,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-472S-2',
+	'goods_qty': 30
+}, {
+	'id': 2262,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-481',
+	'goods_qty': 113
+}, {
+	'id': 2261,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-486-2',
+	'goods_qty': 30
+}, {
+	'id': 2260,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-490-2',
+	'goods_qty': 40
+}, {
+	'id': 2259,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-493-1',
+	'goods_qty': 116
+}, {
+	'id': 2258,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-493-3',
+	'goods_qty': 50
+}, {
+	'id': 2257,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-494',
+	'goods_qty': 80
+}, {
+	'id': 2256,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-1',
+	'goods_qty': 40
+}, {
+	'id': 2255,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-2',
+	'goods_qty': 40
+}, {
+	'id': 2254,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-3',
+	'goods_qty': 15
+}, {
+	'id': 2253,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-849',
+	'goods_qty': 20
+}, {
+	'id': 2252,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-857',
+	'goods_qty': 17
+}, {
+	'id': 2251,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-862-1',
+	'goods_qty': 26
+}, {
+	'id': 2250,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-893-1',
+	'goods_qty': 40
+}, {
+	'id': 2249,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-893-2',
+	'goods_qty': 40
+}, {
+	'id': 2248,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-898',
+	'goods_qty': 12
+}, {
+	'id': 2247,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-002-MR',
+	'goods_qty': 20
+}, {
+	'id': 2246,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-003-2',
+	'goods_qty': 30
+}, {
+	'id': 2245,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-010-1',
+	'goods_qty': 19
+}, {
+	'id': 2244,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-016-1',
+	'goods_qty': 66
+}, {
+	'id': 2243,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-019S',
+	'goods_qty': 28
+}, {
+	'id': 2242,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-020',
+	'goods_qty': 79
+}, {
+	'id': 2241,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-020-SM',
+	'goods_qty': 27
+}, {
+	'id': 2240,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-022-MB',
+	'goods_qty': 152
+}, {
+	'id': 2239,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-022-RD',
+	'goods_qty': 50
+}, {
+	'id': 2238,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-024S-RD',
+	'goods_qty': 147
+}, {
+	'id': 2237,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-025T',
+	'goods_qty': 29
+}, {
+	'id': 2236,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-027-3',
+	'goods_qty': 15
+}, {
+	'id': 2235,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-RC',
+	'goods_qty': 20
+}, {
+	'id': 2234,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-YC-L',
+	'goods_qty': 199
+}, {
+	'id': 2233,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-YC-R',
+	'goods_qty': 238
+}, {
+	'id': 2232,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-032-R',
+	'goods_qty': 50
+}, {
+	'id': 2231,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-033',
+	'goods_qty': 30
+}, {
+	'id': 2230,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-034-2S',
+	'goods_qty': 20
+}, {
+	'id': 2229,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-038-L',
+	'goods_qty': 130
+}, {
+	'id': 2228,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-038-R',
+	'goods_qty': 300
+}, {
+	'id': 2227,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-039S-2',
+	'goods_qty': 69
+}, {
+	'id': 2226,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-044-L',
+	'goods_qty': 50
+}, {
+	'id': 2225,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-044-R',
+	'goods_qty': 60
+}, {
+	'id': 2224,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-054-L',
+	'goods_qty': 20
+}, {
+	'id': 2223,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-054-R',
+	'goods_qty': 30
+}, {
+	'id': 2222,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-062T',
+	'goods_qty': 72
+}, {
+	'id': 2221,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-063T',
+	'goods_qty': 89
+}, {
+	'id': 2220,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-064-2',
+	'goods_qty': 381
+}, {
+	'id': 2219,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-065',
+	'goods_qty': 200
+}, {
+	'id': 2218,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-066',
+	'goods_qty': 50
+}, {
+	'id': 2217,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-068',
+	'goods_qty': 280
+}, {
+	'id': 2216,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-073T-1',
+	'goods_qty': 27
+}, {
+	'id': 2215,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-074',
+	'goods_qty': 17
+}, {
+	'id': 2214,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-075',
+	'goods_qty': 48
+}, {
+	'id': 2213,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-076',
+	'goods_qty': 42
+}, {
+	'id': 2212,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-084',
+	'goods_qty': 50
+}, {
+	'id': 2211,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-085',
+	'goods_qty': 7
+}, {
+	'id': 2210,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-096S-1',
+	'goods_qty': 150
+}, {
+	'id': 2209,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-096S-3',
+	'goods_qty': 147
+}, {
+	'id': 2208,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-106-1',
+	'goods_qty': 15
+}, {
+	'id': 2207,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-112',
+	'goods_qty': 1
+}, {
+	'id': 2206,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-1',
+	'goods_qty': 50
+}, {
+	'id': 2205,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-3',
+	'goods_qty': 100
+}, {
+	'id': 2204,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-4',
+	'goods_qty': 78
+}, {
+	'id': 2203,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-116-L',
+	'goods_qty': 17
+}, {
+	'id': 2202,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-116-R',
+	'goods_qty': 35
+}, {
+	'id': 2201,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-127-1',
+	'goods_qty': 10
+}, {
+	'id': 2200,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-127-3',
+	'goods_qty': 10
+}, {
+	'id': 2199,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-145-2',
+	'goods_qty': 8
+}, {
+	'id': 2198,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-145-3',
+	'goods_qty': 80
+}, {
+	'id': 2197,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-148-1',
+	'goods_qty': 50
+}, {
+	'id': 2196,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-156-1',
+	'goods_qty': 40
+}, {
+	'id': 2195,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-156-2',
+	'goods_qty': 45
+}, {
+	'id': 2194,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-168-1',
+	'goods_qty': 49
+}, {
+	'id': 2193,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-168-1L',
+	'goods_qty': 30
+}, {
+	'id': 2192,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-175',
+	'goods_qty': 40
+}, {
+	'id': 2191,
+	'bin_name': 'TARA',
+	'goods_code': 'T-NS-MRC001',
+	'goods_qty': 244
+}, {
+	'id': 2467,
+	'bin_name': 'TARA',
+	'goods_code': 'KX-014',
+	'goods_qty': 198
+}, {
+	'id': 2360,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-005',
+	'goods_qty': 80
+}, {
+	'id': 2359,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-024',
+	'goods_qty': 21
+}, {
+	'id': 2358,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-032',
+	'goods_qty': 198
+}, {
+	'id': 2357,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-033S',
+	'goods_qty': 120
+}, {
+	'id': 2356,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-037S',
+	'goods_qty': 199
+}, {
+	'id': 2355,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-040',
+	'goods_qty': 60
+}, {
+	'id': 2354,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-047SA',
+	'goods_qty': 130
+}, {
+	'id': 2353,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-047SB',
+	'goods_qty': 130
+}, {
+	'id': 2352,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-050T',
+	'goods_qty': 70
+}, {
+	'id': 2351,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-058T',
+	'goods_qty': 320
+}, {
+	'id': 2350,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-062',
+	'goods_qty': 30
+}, {
+	'id': 2349,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-064',
+	'goods_qty': 193
+}, {
+	'id': 2348,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-067',
+	'goods_qty': 88
+}, {
+	'id': 2347,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-074',
+	'goods_qty': 250
+}, {
+	'id': 2346,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-078A',
+	'goods_qty': 50
+}, {
+	'id': 2345,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-078B',
+	'goods_qty': 50
+}, {
+	'id': 2344,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-081',
+	'goods_qty': 250
+}, {
+	'id': 2343,
+	'bin_name': 'TARA',
+	'goods_code': 'LYA-090',
+	'goods_qty': 128
+}, {
+	'id': 2342,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-002S',
+	'goods_qty': 35
+}, {
+	'id': 2341,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-013S',
+	'goods_qty': 30
+}, {
+	'id': 2340,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-015',
+	'goods_qty': 10
+}, {
+	'id': 2339,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-029TA',
+	'goods_qty': 10
+}, {
+	'id': 2338,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-029TB',
+	'goods_qty': 10
+}, {
+	'id': 2337,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-059',
+	'goods_qty': 70
+}, {
+	'id': 2336,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-072',
+	'goods_qty': 40
+}, {
+	'id': 2335,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-082',
+	'goods_qty': 10
+}, {
+	'id': 2334,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-093',
+	'goods_qty': 60
+}, {
+	'id': 2332,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-402',
+	'goods_qty': 20
+}, {
+	'id': 2331,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-413',
+	'goods_qty': 15
+}, {
+	'id': 2330,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-414S-1',
+	'goods_qty': 18
+}, {
+	'id': 2329,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-418',
+	'goods_qty': 30
+}, {
+	'id': 2328,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-426',
+	'goods_qty': 15
+}, {
+	'id': 2327,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-428-2',
+	'goods_qty': 28
+}, {
+	'id': 2326,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-432',
+	'goods_qty': 130
+}, {
+	'id': 2325,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-435',
+	'goods_qty': 42
+}, {
+	'id': 2324,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-436',
+	'goods_qty': 60
+}, {
+	'id': 2323,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-439',
+	'goods_qty': 34
+}, {
+	'id': 2322,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-442',
+	'goods_qty': 15
+}, {
+	'id': 2321,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-443A',
+	'goods_qty': 29
+}, {
+	'id': 2320,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-443B',
+	'goods_qty': 29
+}, {
+	'id': 2319,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-445',
+	'goods_qty': 70
+}, {
+	'id': 2318,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-447',
+	'goods_qty': 39
+}, {
+	'id': 2317,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-448',
+	'goods_qty': 164
+}, {
+	'id': 2316,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-451S',
+	'goods_qty': 123
+}, {
+	'id': 2315,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-452',
+	'goods_qty': 45
+}, {
+	'id': 2314,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-457',
+	'goods_qty': 62
+}, {
+	'id': 2313,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-459',
+	'goods_qty': 48
+}, {
+	'id': 2312,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-460S',
+	'goods_qty': 89
+}, {
+	'id': 2311,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-464',
+	'goods_qty': 100
+}, {
+	'id': 2310,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-465',
+	'goods_qty': 20
+}, {
+	'id': 2309,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-468',
+	'goods_qty': 61
+}, {
+	'id': 2308,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-471-1',
+	'goods_qty': 50
+}, {
+	'id': 2307,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-479',
+	'goods_qty': 50
+}, {
+	'id': 2306,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-10',
+	'goods_qty': 41
+}, {
+	'id': 2305,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-11',
+	'goods_qty': 9
+}, {
+	'id': 2304,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-2',
+	'goods_qty': 60
+}, {
+	'id': 2303,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-480-3',
+	'goods_qty': 60
+}, {
+	'id': 2302,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-481-4',
+	'goods_qty': 25
+}, {
+	'id': 2301,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-486',
+	'goods_qty': 35
+}, {
+	'id': 2300,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-492',
+	'goods_qty': 30
+}, {
+	'id': 2299,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-494S',
+	'goods_qty': 80
+}, {
+	'id': 2298,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-495',
+	'goods_qty': 45
+}, {
+	'id': 2297,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-496S',
+	'goods_qty': 30
+}, {
+	'id': 2296,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-498',
+	'goods_qty': 36
+}, {
+	'id': 2295,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-832',
+	'goods_qty': 30
+}, {
+	'id': 2294,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-859',
+	'goods_qty': 15
+}, {
+	'id': 2293,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-864',
+	'goods_qty': 40
+}, {
+	'id': 2292,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-880',
+	'goods_qty': 50
+}, {
+	'id': 2291,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAM-884-1',
+	'goods_qty': 50
+}, {
+	'id': 2290,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-006F',
+	'goods_qty': 59
+}, {
+	'id': 2289,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-006F-MB',
+	'goods_qty': 30
+}, {
+	'id': 2288,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-049',
+	'goods_qty': 50
+}, {
+	'id': 2287,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-053',
+	'goods_qty': 50
+}, {
+	'id': 2286,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-054',
+	'goods_qty': 200
+}, {
+	'id': 2285,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-401-3',
+	'goods_qty': 70
+}, {
+	'id': 2284,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-403',
+	'goods_qty': 50
+}, {
+	'id': 2283,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-409',
+	'goods_qty': 132
+}, {
+	'id': 2282,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-412S',
+	'goods_qty': 70
+}, {
+	'id': 2281,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-413',
+	'goods_qty': 40
+}, {
+	'id': 2280,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-416-2',
+	'goods_qty': 60
+}, {
+	'id': 2279,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-417',
+	'goods_qty': 50
+}, {
+	'id': 2278,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-419',
+	'goods_qty': 20
+}, {
+	'id': 2277,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-420',
+	'goods_qty': 30
+}, {
+	'id': 2276,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-422-1S',
+	'goods_qty': 20
+}, {
+	'id': 2275,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-434-1',
+	'goods_qty': 40
+}, {
+	'id': 2274,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-439',
+	'goods_qty': 40
+}, {
+	'id': 2273,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-442-3',
+	'goods_qty': 15
+}, {
+	'id': 2272,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-447',
+	'goods_qty': 70
+}, {
+	'id': 2271,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-450-2',
+	'goods_qty': 67
+}, {
+	'id': 2270,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-452',
+	'goods_qty': 60
+}, {
+	'id': 2269,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-453',
+	'goods_qty': 60
+}, {
+	'id': 2268,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-457-2',
+	'goods_qty': 185
+}, {
+	'id': 2267,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-461',
+	'goods_qty': 20
+}, {
+	'id': 2266,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-467S',
+	'goods_qty': 57
+}, {
+	'id': 2265,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-471',
+	'goods_qty': 145
+}, {
+	'id': 2264,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-472-1',
+	'goods_qty': 49
+}, {
+	'id': 2263,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-472S-2',
+	'goods_qty': 30
+}, {
+	'id': 2262,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-481',
+	'goods_qty': 113
+}, {
+	'id': 2261,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-486-2',
+	'goods_qty': 30
+}, {
+	'id': 2260,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-490-2',
+	'goods_qty': 40
+}, {
+	'id': 2259,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-493-1',
+	'goods_qty': 116
+}, {
+	'id': 2258,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-493-3',
+	'goods_qty': 50
+}, {
+	'id': 2257,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-494',
+	'goods_qty': 80
+}, {
+	'id': 2256,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-1',
+	'goods_qty': 40
+}, {
+	'id': 2255,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-2',
+	'goods_qty': 40
+}, {
+	'id': 2254,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-825-3',
+	'goods_qty': 15
+}, {
+	'id': 2253,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-849',
+	'goods_qty': 20
+}, {
+	'id': 2252,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-857',
+	'goods_qty': 17
+}, {
+	'id': 2251,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-862-1',
+	'goods_qty': 26
+}, {
+	'id': 2250,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-893-1',
+	'goods_qty': 40
+}, {
+	'id': 2249,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-893-2',
+	'goods_qty': 40
+}, {
+	'id': 2248,
+	'bin_name': 'TARA',
+	'goods_code': 'LYAP-898',
+	'goods_qty': 12
+}, {
+	'id': 2247,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-002-MR',
+	'goods_qty': 20
+}, {
+	'id': 2246,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-003-2',
+	'goods_qty': 30
+}, {
+	'id': 2245,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-010-1',
+	'goods_qty': 19
+}, {
+	'id': 2244,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-016-1',
+	'goods_qty': 66
+}, {
+	'id': 2243,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-019S',
+	'goods_qty': 28
+}, {
+	'id': 2242,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-020',
+	'goods_qty': 79
+}, {
+	'id': 2241,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-020-SM',
+	'goods_qty': 27
+}, {
+	'id': 2240,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-022-MB',
+	'goods_qty': 152
+}, {
+	'id': 2239,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-022-RD',
+	'goods_qty': 50
+}, {
+	'id': 2238,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-024S-RD',
+	'goods_qty': 147
+}, {
+	'id': 2237,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-025T',
+	'goods_qty': 29
+}, {
+	'id': 2236,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-027-3',
+	'goods_qty': 15
+}, {
+	'id': 2235,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-RC',
+	'goods_qty': 20
+}, {
+	'id': 2234,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-YC-L',
+	'goods_qty': 199
+}, {
+	'id': 2233,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-028-YC-R',
+	'goods_qty': 238
+}, {
+	'id': 2232,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-032-R',
+	'goods_qty': 50
+}, {
+	'id': 2231,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-033',
+	'goods_qty': 30
+}, {
+	'id': 2230,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-034-2S',
+	'goods_qty': 20
+}, {
+	'id': 2229,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-038-L',
+	'goods_qty': 130
+}, {
+	'id': 2228,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-038-R',
+	'goods_qty': 300
+}, {
+	'id': 2227,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-039S-2',
+	'goods_qty': 69
+}, {
+	'id': 2226,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-044-L',
+	'goods_qty': 50
+}, {
+	'id': 2225,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-044-R',
+	'goods_qty': 60
+}, {
+	'id': 2224,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-054-L',
+	'goods_qty': 20
+}, {
+	'id': 2223,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-054-R',
+	'goods_qty': 30
+}, {
+	'id': 2222,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-062T',
+	'goods_qty': 72
+}, {
+	'id': 2221,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-063T',
+	'goods_qty': 89
+}, {
+	'id': 2220,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-064-2',
+	'goods_qty': 381
+}, {
+	'id': 2219,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-065',
+	'goods_qty': 200
+}, {
+	'id': 2218,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-066',
+	'goods_qty': 50
+}, {
+	'id': 2217,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-068',
+	'goods_qty': 280
+}, {
+	'id': 2216,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-073T-1',
+	'goods_qty': 27
+}, {
+	'id': 2215,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-074',
+	'goods_qty': 17
+}, {
+	'id': 2214,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-075',
+	'goods_qty': 48
+}, {
+	'id': 2213,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-076',
+	'goods_qty': 42
+}, {
+	'id': 2212,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-084',
+	'goods_qty': 50
+}, {
+	'id': 2211,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-085',
+	'goods_qty': 7
+}, {
+	'id': 2210,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-096S-1',
+	'goods_qty': 150
+}, {
+	'id': 2209,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-096S-3',
+	'goods_qty': 147
+}, {
+	'id': 2208,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-106-1',
+	'goods_qty': 15
+}, {
+	'id': 2207,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-112',
+	'goods_qty': 1
+}, {
+	'id': 2206,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-1',
+	'goods_qty': 50
+}, {
+	'id': 2205,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-3',
+	'goods_qty': 100
+}, {
+	'id': 2204,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-114S-4',
+	'goods_qty': 78
+}, {
+	'id': 2203,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-116-L',
+	'goods_qty': 17
+}, {
+	'id': 2202,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-116-R',
+	'goods_qty': 35
+}, {
+	'id': 2201,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-127-1',
+	'goods_qty': 10
+}, {
+	'id': 2200,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-127-3',
+	'goods_qty': 10
+}, {
+	'id': 2199,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-145-2',
+	'goods_qty': 8
+}, {
+	'id': 2198,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-145-3',
+	'goods_qty': 80
+}, {
+	'id': 2197,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-148-1',
+	'goods_qty': 50
+}, {
+	'id': 2196,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-156-1',
+	'goods_qty': 40
+}, {
+	'id': 2195,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-156-2',
+	'goods_qty': 45
+}, {
+	'id': 2194,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-168-1',
+	'goods_qty': 49
+}, {
+	'id': 2193,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-168-1L',
+	'goods_qty': 30
+}, {
+	'id': 2192,
+	'bin_name': 'TARA',
+	'goods_code': 'LYPL-175',
+	'goods_qty': 40
+}, {
+	'id': 2191,
+	'bin_name': 'TARA',
+	'goods_code': 'T-NS-MRC001',
+	'goods_qty': 244
+}]
